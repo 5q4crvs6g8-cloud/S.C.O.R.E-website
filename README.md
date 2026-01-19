@@ -28,3 +28,7 @@ Simply visit:
 ---
 
 Made with ❤️ and 🚀 by Jan Smith & Creker.
+
+## View the website
+Check out the fan-made S.C.O.R.E. website online:  
+[Visit S.C.O.R.E. Website](https://5q4crvs6g8-cloud.github.io/score-website/)
